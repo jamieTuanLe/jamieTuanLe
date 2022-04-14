@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamieTuanLe
+- 👋 Hi, I’m @vincent
 - 🌱 I’m currently learning Javascript, Nodejs, ReactJs for works
 - 📫 Contact me: tuanle.eagle@gmail.com
 - "Let's create something interesting"
